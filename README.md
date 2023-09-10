@@ -1,7 +1,7 @@
 # NVD_Auto_Score
 ## Auto Score NVD CVEs Using GPT-4
 
-Given a CVE, and using only limited infomration an NVD analyst would have to review and rate a CVE this AI script will:
+Given a CVE, and using only limited information an NVD analyst would have to review and rate a CVE this AI script will:
 Take the CVE Description and Reference URLs to create a detailed description
 Rate each CVSS 3.1 attribute
 Use those attributes to include the CVSS 3.1 score
